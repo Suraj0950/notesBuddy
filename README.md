@@ -1,2 +1,2 @@
 # notesBuddy
-Introducing notesBuddy, the ultimate study companion for college students!  Tired of juggling scattered notes and drowning in textbooks? notesBuddy is here to make exam prep a breeze. This intuitive app helps you organize all your course materials in one place, so you can focus on what really matters: acing your exams.
+Introducing notesBuddy, the ultimate study companion for college students!  Tired of juggling scattered notes, previous year question (PYQs) and drowning in textbooks? notesBuddy is here to make exam prep a breeze. This intuitive app helps you organize all your course materials in one place, so you can focus on what really matters: acing your exams.
