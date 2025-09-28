@@ -5,13 +5,6 @@ function Home() {
     // Main Div
       <div>
         <Navbar/>
-
-
-
-
-
-
-        
       </div>
     
   )
