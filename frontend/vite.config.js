@@ -8,6 +8,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react(),
-    require('tailwind-scrollbar-hide')
   ],
 })
